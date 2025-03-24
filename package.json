@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "tsc": "^2.0.4"
-  }
+  },
+  "name": "create-element",
+  "version": "0.1.0",
+  "description": "create manual or jsx HTML elements",
+  "main": "src/createElement.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroManse/createElement.git"
+  },
+  "author": "",
+			"license": "GLP-3.0",
+  "bugs": {
+    "url": "https://github.com/PedroManse/createElement/issues"
+  },
+  "homepage": "https://github.com/PedroManse/createElement#readme"
 }
