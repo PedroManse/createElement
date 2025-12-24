@@ -1,4 +1,4 @@
-export function reactEl(
+export default function reactEl(
 	name: string,
 	attrs: { [key: string]: any } | null = null,
 	...elements: (HTMLElement[] | { toString: () => string }[])

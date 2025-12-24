@@ -1,6 +1,6 @@
 import El from "./el";
+import reactEl from "./react";
 import { $, $$ } from "./util";
-import { reactEl } from "./react";
 export { El, $, $$, reactEl };
 export default El;
 
